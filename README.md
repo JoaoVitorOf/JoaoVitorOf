@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoaoVitorOf
+- 👋 Hi, I’m João Vítor.
 - 👀 I’m interested in Back-end developer
 - 🌱 I’m currently learning "University of life"
 - 💞️ I’m looking to collaborate on simple projects.
